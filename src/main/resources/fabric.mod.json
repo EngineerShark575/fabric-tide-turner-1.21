@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "tideturner",
+	"version": "${version}",
+	"name": "Tide Turner",
+	"description": "turning the tides of the field",
+	"authors": [
+		"EngineerShark"
+	],
+	"contact": {
+		"homepage": "https://engineershark.net/",
+		"sources": "https://github.com/EngineerShark575/Fabric-Tide-Turner-1.21"
+	},
+	"license": "MIT",
+	"icon": "assets/tideturner/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.engineershark.tideturner.TideTurner"
+		],
+		"fabric-datagen": [
+			"net.engineershark.tideturner.TideTurnerDataGenerator"
+		],
+		"client": [
+			"net.engineershark.tideturner.TideTurnerClient"
+		]
+	},
+	"mixins": [
+		"tideturner.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
