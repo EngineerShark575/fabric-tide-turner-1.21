@@ -1,0 +1,39 @@
+{
+  "item.tideturner.pink_garnet": "Pink Garnet",
+  "item.tideturner.raw_pink_garnet": "Raw Pink Garnet",
+  "item.tideturner.chisel": "Chisel",
+
+  "block.tideturner.pink_garnet_block": "Block of Pink Garnet",
+  "block.tideturner.raw_pink_garnet_block": " Raw Block of Pink Garnet",
+
+  "itemgroup.tideturner.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.tideturner.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "block.tideturner.pink_garnet_stairs": "Pink Garnet Stairs",
+  "block.tideturner.pink_garnet_slab": "Pink Garnet Slab",
+
+  "block.tideturner.pink_garnet_button": "Pink Garnet Button",
+  "block.tideturner.pink_garnet_pressure_plate": "Pink Garnet Pressure Plate",
+
+  "block.tideturner.pink_garnet_fence": "Pink Garnet Fence",
+  "block.tideturner.pink_garnet_fence_gate": "Pink Garnet Fence Gate",
+  "block.tideturner.pink_garnet_wall": "Pink Garnet Wall",
+
+  "block.tideturner.pink_garnet_door": "Pink Garnet Door",
+  "block.tideturner.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
+
+
+  "block.tideturner.pink_garnet_ore": "Pink Garnet Ore",
+  "block.tideturner.deepslate_pink_garnet_ore": "Deepslate Pink Garnet Ore",
+
+  "block.tideturner.magic_block": "Magic Block",
+  "item.tideturner.cauliflower": "Cauliflower",
+  "item.tideturner.starlight_ashes": "Starlight Ashes",
+
+  "tooltip.tideturner.magic_block.tooltip": "Tip: Use to quick smelt §9raw pink garnet§r into §9pink garnet§r!",
+  "tooltip.tideturner.chisel": "Press §eShift§r for more Info",
+  "tooltip.tideturner.chisel.shift_down": "This item chisels blocks making them better!",
+  "tooltip.tideturner.cauliflower.tooltip": "Eat for some good food and the chance for extra hearts!"
+
+
+}
